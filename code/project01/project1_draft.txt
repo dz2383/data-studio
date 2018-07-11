@@ -1,0 +1,15 @@
+1.A paragraph or two about the work you've done (data sourcing, data cleaning, etc)
+
+I scraped the yelp.com to get the names of restaurants, area of restaurants, and prices an ratings of restaurant.
+Then, I categorized my data based on 'area' and get the mean of rating and the highest rating and lowest rating of each area.
+
+
+
+2.A paragraph or two about your findings
+
+Based on those limited data, I assume that East Village has better Japanese restaurants.
+
+
+3.A list of additional "nice to have" improvements - this can be other graphics, improvements on your existing graphics, or further data analysis.
+
+I should try to get more data from the yelp. Maybe 10 or 20 pages.
