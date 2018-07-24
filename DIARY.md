@@ -7,11 +7,13 @@ https://github.com/jsoma/data-studio-projects/issues/152
 
 **Data set(s):** 
 [yelp.com](https://www.yelp.com/search?find_desc=Japanese+Food&find_loc=Manhattan,+New+York,+NY)
+
 Final dataset:
 https://github.com/dz2383/data-studio/blob/master/code/project01/price_and_rating_top14.csv
 
 **Code repository:** 
 https://github.com/dz2383/data-studio/tree/master/code/project01
+
 jupyter notebook:
 https://github.com/dz2383/data-studio/blob/master/code/project01/project1-updated.ipynb
 
