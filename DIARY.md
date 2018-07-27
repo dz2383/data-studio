@@ -37,7 +37,7 @@ https://github.com/jsoma/data-studio-projects/issues/171
 https://github.com/fivethirtyeight/data/tree/master/trump-world-trust
 
 **Code repository:** 
-https://github.com/dz2383/data-studio/tree/master/code/project01
+https://github.com/dz2383/data-studio/tree/master/code/project02
 
 jupyter notebook:
 https://github.com/dz2383/data-studio/blob/master/code/project02/What%20do%20world%20think%20of%20Trump.ipynb
